@@ -104,6 +104,8 @@ namespace Practise
             }
             Console.WriteLine("\nPlease press the enter key to continue");
 
+            //What do you thing about this code.
+
             Console.ReadLine();
             // System.Console.ReadKey();
         }
